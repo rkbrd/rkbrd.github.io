@@ -10,7 +10,7 @@ body {
 	align-items: center;
 }
 .full {
-	width: 80%;
+	width: 100%;
 	max-width: 1000px;
 	min-height: 100px;
 	background-color: #fff;
